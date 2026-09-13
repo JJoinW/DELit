@@ -1,0 +1,13 @@
+model_id,model_name
+model_1,claude-opus-4-7
+model_2,deepseek-v4-pro
+model_3,gemini-3.1-pro-preview
+model_4,glm-5.1
+model_5,gpt-5.4-mini
+model_6,gpt-5.4
+model_7,qwen-max
+model_8,qwen3-14b
+model_9,qwen3-235b-a22b-instruct-2507
+model_10,qwen3-32b
+model_11,qwen3-4b-instruct
+model_12,qwen3-8b
